@@ -1,4 +1,4 @@
-# General Relativity of Learning
+# General-Relativity-of-Intelligence
 
 ---
 
